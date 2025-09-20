@@ -35,6 +35,10 @@
 # Install dependencies
 npm install
 
+# Clone the repository
+https://github.com/Sidharth77777/DecentralisedPay-contract.git
+cd contract
+
 # Compile contract
 npx hardhat compile
 
