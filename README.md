@@ -32,12 +32,12 @@
 
 ## 📦 Deployment
 ```bash
-# Install dependencies
-npm install
-
 # Clone the repository
 https://github.com/Sidharth77777/DecentralisedPay-contract.git
-cd contract
+cd contracts
+
+# Install dependencies
+npm install
 
 # Compile contract
 npx hardhat compile
